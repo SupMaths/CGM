@@ -5,7 +5,7 @@ J'ai décidé de présenter une correction du CGM, puisqu'il n'existe pas encore
 
 | **Exercice 1** |   | **Exercice 1** |   | **Exercice 2** |   | **Exercice 2** |   | **Exercice 2** |   | **Exercice 3** |   |
 |:--------------:|:-:|:--------------:|:-:|:--------------:|:-:|:--------------:|:-:|:--------------:|:-:|:--------------:|:-:|
-|  **Partie I**  | ✅ |  **Partie II** |   |  **Partie I**  |   | **Partie III** |   |  **Partie IV** |   |       Q1       | ❌ |
+|  **Partie I**  |    |  **Partie II** |   |  **Partie I**  |   | **Partie III** |   |  **Partie IV** |   |       Q1       | ❌ |
 |       Q1       | ✅ |       Q6       | ✅ |       Q1       | ✅ |       Q7       | ❌ |       Q12      | ❌ |       Q2       | ❌ |
 |       Q2       | ✅ |       Q7       | ✅ |  **Partie II** |   |       Q8       | ❌ |       Q13      | ❌ |       Q3       | ❌ |
 |       Q3       | ✅ |       Q8       | ✅ |       Q2       | ✅ |       Q9       | ❌ |       Q14      | ❌ |       Q4       | ❌ |
