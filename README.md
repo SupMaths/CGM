@@ -18,8 +18,8 @@ J'ai décidé de présenter une correction du CGM, puisqu'il n'existe pas encore
 
 # Corrigé
 
-Onglet pas encore fonctionnel.
+Onglet pas encore fonctionnel. Cliquer sur le lien Overleaf pour accéder au corrigé.
 
 # Sujet
 
-Onglet pas encore fonctionnel.
+Onglet pas encore fonctionnel. Cliquer dans le dossier "Sujet CGM 2026" pour y accéder.
