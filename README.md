@@ -1,5 +1,5 @@
 # Présentation
-J'ai décidé de présenter une correction du CGM, puisqu'il n'existe pas encore de correction officielle publiée sur Internet. La mienne sera finie dans quelques semaines tout au plus. J'ai utilisé Overleaf pour créer ce projet. Vous pouvez accéder au projet (Code LaTeX et fichier PDF) [en cliquant sur le lien ci-joint](https://fr.overleaf.com/read/kpkjqrysbmww#73d0c0). 
+J'ai décidé de présenter une correction du CGM, puisqu'il n'existe à ce jour aucune correction totale publiée sur Internet (On ne retrouve que des vidéos YouTube traitant à peine le tiers). J'ai utilisé Overleaf pour créer ce projet. Vous pouvez accéder au projet (Code LaTeX et fichier PDF) [en cliquant sur le lien ci-joint](https://fr.overleaf.com/read/kpkjqrysbmww#73d0c0). Ma correction sera par ailleurs finie dans quelques semaines tout au plus.
 
 # Questions corrigées
 
