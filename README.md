@@ -10,12 +10,12 @@ L'exercice 3 est déjà résolu mais j'en prépare une correction interactive av
 
 | **Exercice 1** |   | **Exercice 1** |   | **Exercice 2** |   | **Exercice 2** |   | **Exercice 2** |   | **Exercice 3** |   |
 |:--------------:|:-:|:--------------:|:-:|:--------------:|:-:|:--------------:|:-:|:--------------:|:-:|:--------------:|:-:|
-|  **Partie I**  |    |  **Partie II** |   |  **Partie I**  |   | **Partie III** |   |  **Partie IV** |   |       Q1       | ❌ |
-|       Q1       | ✅ |       Q6       | ✅ |       Q1       | ✅ |       Q7       | ✅ |       Q12      | ✅ |       Q2       | ❌ |
-|       Q2       | ✅ |       Q7       | ✅ |  **Partie II** |   |       Q8       | ✅ |       Q13      | ✅ |       Q3       | ❌ |
-|       Q3       | ✅ |       Q8       | ✅ |       Q2       | ✅ |       Q9       | ✅ |       Q14      | ✅ |       Q4       | ❌ |
-|       Q4       | ✅ | **Partie III** |   |       Q3       | ✅ |       Q10      | ✅ |       Q15      | ✅ |       Q5       | ❌ |
-|       Q5       | ✅ |       Q9       | ❌ |       Q4       | ✅ |       Q11      | ✅ |  **Partie V**  |   |       Q6       | ❌ |
+|  **Partie I**  |    |  **Partie II** |   |  **Partie I**  |   | **Partie III** |   |  **Partie IV** |   |       Q1       | ✅ |
+|       Q1       | ✅ |       Q6       | ✅ |       Q1       | ✅ |       Q7       | ✅ |       Q12      | ✅ |       Q2       | ✅ |
+|       Q2       | ✅ |       Q7       | ✅ |  **Partie II** |   |       Q8       | ✅ |       Q13      | ✅ |       Q3       | ✅ |
+|       Q3       | ✅ |       Q8       | ✅ |       Q2       | ✅ |       Q9       | ✅ |       Q14      | ✅ |       Q4       | ✅ |
+|       Q4       | ✅ | **Partie III** |   |       Q3       | ✅ |       Q10      | ✅ |       Q15      | ✅ |       Q5       | ✅ |
+|       Q5       | ✅ |       Q9       | ❌ |       Q4       | ✅ |       Q11      | ✅ |  **Partie V**  |   |       Q6       | ✅ |
 |                |   |       Q10      | ❌ |       Q5       | ✅ |                |   |       Q16      | ✅ |                |   |
 |                |   |       Q11      | ❌ |       Q6       | ✅ |                |   |       Q17      | ✅ |                |   |
 |                |   |       Q12      | ❌ |                |   |                |   |  **Partie VI** |   |                |   |
