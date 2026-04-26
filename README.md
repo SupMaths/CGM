@@ -4,8 +4,6 @@ Numéro de dossier : 4*****0
 # Présentation
 J'ai décidé de présenter une correction du CGM, puisqu'il n'existe à ce jour aucune correction totale publiée sur Internet (on ne retrouve que des vidéos YouTube traitant à peine le tiers). J'ai utilisé Overleaf pour créer ce projet. Vous pouvez y accéder (Code LaTeX et fichier PDF) [en cliquant sur le lien ci-joint](https://fr.overleaf.com/read/kpkjqrysbmww#73d0c0). Ma correction sera par ailleurs finie dans quelques semaines tout au plus.
 
-L'exercice 3 est déjà résolu mais j'en prépare une correction interactive avec Géogébra.
-
 # Questions corrigées
 
 | **Exercice 1** |   | **Exercice 1** |   | **Exercice 2** |   | **Exercice 2** |   | **Exercice 2** |   | **Exercice 3** |   |
