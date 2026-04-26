@@ -22,7 +22,6 @@ J'ai décidé de présenter une correction du CGM, puisqu'il n'existe à ce jour
 # Corrigé
 
 Vous pouvez vous référer au lien Overleaf pour accéder au corrigé.
-fds 
 # Sujet
 
 Vous pouvez vous référer au dossier "Sujet CGM 2026" pour y accéder.
