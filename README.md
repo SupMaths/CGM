@@ -23,8 +23,8 @@ L'exercice 3 est déjà résolu mais j'en prépare une correction interactive av
 
 # Corrigé
 
-Onglet pas encore fonctionnel. Cliquer sur le lien Overleaf pour accéder au corrigé.
-
+Vous pouvez vous référer au lien Overleaf pour accéder au corrigé.
+fds 
 # Sujet
 
-Onglet pas encore fonctionnel. Cliquer dans le dossier "Sujet CGM 2026" pour y accéder.
+Vous pouvez vous référer au dossier "Sujet CGM 2026" pour y accéder.
