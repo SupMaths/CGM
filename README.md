@@ -2,7 +2,9 @@
 Numéro de dossier : 4*****0
 
 # Présentation
-J'ai décidé de présenter une correction du CGM, puisqu'il n'existe à ce jour aucune correction totale publiée sur Internet (on ne retrouve que des vidéos YouTube traitant à peine le tiers des deux premiers exercices). J'ai utilisé Overleaf pour créer ce projet. Vous pouvez y accéder (Code LaTeX et fichier PDF) [en cliquant sur le lien ci-joint](https://fr.overleaf.com/read/kpkjqrysbmww#73d0c0). 
+J'ai décidé de présenter une correction du CGM, puisqu'il n'existe à ce jour aucune correction totale publiée sur Internet (on ne retrouve que des vidéos YouTube traitant à peine le tiers des deux premiers exercices). 
+
+J'ai utilisé Overleaf pour créer ce projet. Vous pouvez y accéder (Code LaTeX et fichier PDF) [en cliquant sur le lien ci-joint](https://fr.overleaf.com/read/kpkjqrysbmww#73d0c0). 
 
 Par ailleurs cette correction a été rédigée entièrement de ma propre main.
 
