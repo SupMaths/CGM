@@ -25,7 +25,7 @@ Par ailleurs cette correction a été rédigée entièrement de ma propre main.
 
 # Corrigé
 
-Vous pouvez vous référer au lien Overleaf pour accéder au corrigé.
+Vous pouvez vous référer au lien Overleaf ou bien vous référer au dossier "Correction CGM 2026" pour accéder au corrigé.
 # Sujet
 
 Vous pouvez vous référer au dossier "Sujet CGM 2026" pour y accéder.
